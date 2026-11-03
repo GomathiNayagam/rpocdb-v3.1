@@ -1,6 +1,6 @@
 # rpoCdb v3.1
 
-Built from GTDB release r232. 184,865 sequences total (178,199 bacterial, 6,666 archaeal).
+Built from GTDB release r232. 178,199 unique, high-quality bacterial sequences.
 
 ## What's new since v2.0
 
